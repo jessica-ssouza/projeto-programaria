@@ -19,10 +19,10 @@ CSS: Linguagem de estilo para estilizar a interface do usuário e aprimorar o la
 
 Se deseja contribuir para este projeto, siga estas etapas:
 
--Faça um fork do repositório.
--Crie uma branch para suas alterações: git checkout -b minha-contribuicao.
--Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.
--Envie para a sua branch: git push origin minha-contribuicao.
--Abra um pull request, descrevendo suas alterações.
+*Faça um fork do repositório.
+*Crie uma branch para suas alterações: git checkout -b minha-contribuicao.
+*Faça as alterações desejadas e faça commit: git commit -m 'Minha contribuição'.
+*Envie para a sua branch: git push origin minha-contribuicao.
+*Abra um pull request, descrevendo suas alterações.
 
 *Agradeço antecipadamente por qualquer contribuição!*
