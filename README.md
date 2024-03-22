@@ -10,8 +10,9 @@ Este repositório destaca a construção de uma página web. O Back-End da aplic
 *Mongoose:* Biblioteca para Node.js que simplifica a interação com o MongoDB.
 *React:* Biblioteca JS para a construção de interfaces de usuário interativas.
 *Node.js:* Ambiente de execução JS no lado do servidor.
-*HTML:* Linguagem de marcação utilizada para estruturar o conteúdo da interface do usuário.
-*CSS:* Linguagem de estilo para estilizar a interface do usuário e aprimorar o layout.
+*HTML e CSS:* Linguagens de marcação e de estilo utilizadas para estruturar e estilizar o conteúdo da interface do usuário e melhorar o layout.
+*VS Code:* IDE utilizado para escrever, editar e compilar os códigos.
+*Insomnia:* Aplicação usada para testar e interagir com APIs, permitindo o envio de solicitações HTTP (GET, POST, PATCH, DELETE) e visualização de respostas.
 
 📌 O foco principal deste projeto está no Back-End, a parte do Front-End foi desenvolvida apenas para ilustração.
 
